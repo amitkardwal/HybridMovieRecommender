@@ -1,0 +1,5 @@
+flask==3.0.3
+lightfm==1.17
+pandas==2.2.2
+numpy==1.26.4
+scipy==1.13.0
